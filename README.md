@@ -23,3 +23,11 @@ con
 ```javascript
 "doctrine/annotations": "1.*"
 ```
+
+
+Suggerimenti:
+
+Installare Symfony CLI
+
+https://symfony.com/doc/current/setup.html
+
